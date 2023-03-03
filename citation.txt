@@ -1,0 +1,7 @@
+@inproceedings{DBLP:conf/cvpr/YiTAJX20,
+  author    = {Zili Yi and Qiang Tang and Shekoofeh Azizi and Daesik Jang and Zhan Xu},
+  title     = {Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting},
+  booktitle = {2020 {IEEE/CVF} Conference on Computer Vision and Pattern Recognition, {CVPR} 2020, Seattle, WA, USA, June 13-19, 2020},
+  pages     = {7505--7514},
+  publisher = {Computer Vision Foundation / {IEEE}},
+  year      = {2020}}
